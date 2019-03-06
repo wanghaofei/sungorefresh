@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/refresh.iml" filepath="$PROJECT_DIR$/refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gitrefresh.iml" filepath="$PROJECT_DIR$/gitrefresh.iml" />
     </modules>
   </component>
 </project>
